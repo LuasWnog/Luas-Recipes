@@ -1,0 +1,29 @@
+body {
+    background-color: grey;
+}
+
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    text-align: center;
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+
+.images {
+    display: block;
+    width: 700px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-position: inside;
+}
+
+.subheader {
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
