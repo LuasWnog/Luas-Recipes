@@ -27,3 +27,14 @@ body {
     font-weight: 900;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.imglink {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+}
+
+.containerimg {
+    margin: 0 auto;
+    max-width: fit-content;
+}
